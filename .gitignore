@@ -1,0 +1,32 @@
+# Compiled object files and libraries
+*.o
+*.a
+*.so
+
+# Module files
+*.mod
+
+# Python byte-compiled / optimization / DLL files
+__pycache__/
+*.py[cod]
+
+# Makefiles and related
+Makefile
+config.log
+config.status
+autom4te.cache/
+
+# Backups and swap files
+*.bak
+*~
+*.swp
+
+# Files for testing
+/test/
+/temp/
+/test*
+/temp*
+
+# Executables
+*.x
+*.out
