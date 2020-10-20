@@ -1,6 +1,7 @@
-# Compiled object files and libraries
+# Compiled object files, dep files, and libraries
 *.o
 *.a
+*.d
 *.so
 
 # Module files
@@ -10,8 +11,7 @@
 __pycache__/
 *.py[cod]
 
-# Makefiles and related
-Makefile
+# Build files and related
 config.log
 config.status
 autom4te.cache/
