@@ -15,6 +15,7 @@ Makefile
 config.log
 config.status
 autom4te.cache/
+build/
 
 # Backups and swap files
 *.bak
